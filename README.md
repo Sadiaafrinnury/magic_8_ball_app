@@ -2,11 +2,15 @@ Magic 8 Ball App
 A simple Flutter application that simulates a Magic 8 Ball, providing random answers to your questions.
 
 Features:
+
 •	Shake your device or tap the ball to receive a random answer.
 •	Fun and entertaining for decision-making, games, or just for laughs!
+
 Technologies Used:
+
 •	Built using the Flutter framework for cross-platform mobile development.
 •	Implemented in Dart programming language.
+
 Appview:
 
 
