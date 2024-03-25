@@ -13,6 +13,8 @@ Technologies Used:
 
 Appview:
 
+https://github.com/Sadiaafrinnury/magic_8_ball_app/assets/70070134/b01260a0-4912-4b3b-b2b8-dc278fd0713a
+
 
 How to Use:
 Clone the repository to your local machine.
